@@ -1,0 +1,9 @@
+# Thing need to be installed - 
+# pip install discord.py
+# pip install wavelink dnspython
+# pip install pyNacl
+# pip install asynico
+# pip install motor
+# pip install dotenv
+# pip install py[voice]
+# pip install maths

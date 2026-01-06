@@ -19,7 +19,7 @@ class AllTimeVc(commands.Cog):
            status="Enabled"  
 
         embed=discord.Embed(
-            description=f"24/7 mode is not{status}",
+            description=f"24/7 mode is {status}",
             color= discord.Color.purple()
         )
         embed.set_footer(

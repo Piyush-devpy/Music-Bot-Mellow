@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/discord.py-Library-7289DA" />
   <img src="https://img.shields.io/badge/Lavalink-v4-red" />
   <img src="https://img.shields.io/badge/Wavelink-v3-orange" />
-  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Status-Inactive-red" />
 </p>
 
 <h4 align="center">A Discord Music Bot</h4>

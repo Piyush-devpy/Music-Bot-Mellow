@@ -27,7 +27,45 @@ The bot is powered by:
 - **Wavelink v3**
 
 ---
-
+## Repository Structure
+```text
+Mellow-Music/
+│
+├──  Cogs/
+│   ├── 247.py
+│   ├── autoplay.py
+│   ├── delete_playlist.py
+│   ├── disconnect.py
+│   ├── help.py
+│   ├── info.py
+│   ├── invite.py
+│   ├── join.py
+│   ├── jump.py
+│   ├── load_playlist.py
+│   ├── loop.py
+│   ├── pause.py
+│   ├── player.py
+│   ├── prefix.py
+│   ├── queue.py
+│   ├── resume.py
+│   ├── saveplaylist.py
+│   ├── shuffle.py
+│   ├── skip.py
+│   ├── stats.py
+│   └── stop.py
+│
+├── Utils/
+│   ├──  image.png
+│   └──  requirements.txt
+│
+├──  Views/
+│   ├──  __init__.py
+│   └──  nowplayingview.py
+│
+├──.gitignore
+├── Bot.py
+└── README.md
+```
 ## Commands
 
 Mellow Music comes with a small but useful set of commands that users actually need.  

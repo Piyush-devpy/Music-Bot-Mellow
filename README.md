@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/4a/06/6f/4a066fbcd8c81f2322554f7400e18984.jpg" alt="Mellow Music Banner">
+  <img src="./Utils/image.png" alt="Mellow Music Banner">
   <br>
   Mellow Music
 </h1>
